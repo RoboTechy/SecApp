@@ -1,0 +1,6 @@
+et_xmlfile==2.0.0
+mysql-connector-python==9.3.0
+openpyxl==3.1.5
+PyQt6==6.9.0
+PyQt6-Qt6==6.9.1
+PyQt6_sip==13.10.2
